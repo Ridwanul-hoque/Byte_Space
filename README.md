@@ -69,7 +69,7 @@ Courses can include information such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Ridwanul-hoque/Byte_Space/tree/Ridwan
 ````
 
 ### 2. Navigate to the Project
