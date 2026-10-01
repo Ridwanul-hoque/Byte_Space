@@ -95,11 +95,11 @@ function Illustration() {
 
         <div className="bsl-front">
           <div className="bsl-media">
-            <svg viewBox="0 0 342 210" preserveAspectRatio="none">
-              {[50, 90, 130, 170].map((y) => (<line key={y} x1="0" x2="342" y1={y} y2={y} stroke="rgba(255,255,255,.08)"/>))}
-              {CHART_BARS.map((h, i) => (<rect key={i} x={18 + i * 19} y={168 - h} width="12" height={h} rx="2" fill={i % 2 ? '#2BD9C0' : '#3D6BFF'} opacity=".9"/>))}
-              <path d="M18 160 C 70 150, 100 60, 160 44 S 260 150, 324 162" fill="none" stroke="#7CF5E0" strokeWidth="2"/>
-            </svg>
+            <img
+  src="/auth.jpg"
+  alt="Big Data"
+  className="bss-media-image"
+/>
             <div className="bsl-pills">
               <span className="bsl-pill">
                 <PillIcon d="M7 5l12 7-12 7z"/>
