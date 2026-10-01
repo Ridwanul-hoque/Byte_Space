@@ -7,6 +7,7 @@ import Explore from "@/Component/Explore";
 import Creator from "@/Component/Creator";
 import CommunityTestimonials from "@/Component/community";
 
+
 export default function Home() {
   return (
     <>
@@ -18,6 +19,7 @@ export default function Home() {
       <Growth/>
       <Creator/>
       <CommunityTestimonials/>
+    
       
     </>
   );

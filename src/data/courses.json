@@ -1,0 +1,762 @@
+[
+  {
+    "id": "build-digital-asset",
+    "title": "Build Digital Asset: A Comprehensive Guide",
+    "subtitle": "Unlock the Power of Digital Creation with Expert Guidance",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Professional Creator",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.8,
+    "reviewCount": 172,
+    "studentsEnrolled": 199,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature1.jpg",
+    "previewVideoUrl": "https://example.com/videos/preview-digital-asset.mp4",
+    "totalLessons": 112,
+    "totalDuration": "24 hours",
+    "features": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion",
+      "Private Consultation"
+    ],
+    "about": {
+      "description": "Embark on an enlightening exploration into the world of digital creation with our comprehensive course, 'Build Digital Asset: A Comprehensive Guide'. This transformative learning experience invites you to delve deep into the intricacies of crafting impactful digital content. From laying the groundwork with foundational concepts to mastering advanced techniques, this guide is meticulously curated to empower you with the skills essential for navigating the dynamic landscape of digital asset creation.",
+      "sneakPeekImages": [
+        "/feature1.jpg",
+        "/feature2.jpg",
+        "/feature3.jpg",
+        "/feature4.jpg"
+      ],
+      "keyPoints": [
+        "Foundational Concepts",
+        "Design Principles Mastery",
+        "Advanced Techniques in Digital Creation",
+        "Project Showcase and Critique",
+        "Optimizing for Various Platforms",
+        "Digital Asset Management Best Practices",
+        "Monetization Strategies",
+        "Capstone Project: Building Your Portfolio"
+      ]
+    },
+    "modules": [
+      {
+        "id": "mod-1",
+        "title": "Module 1: Introduction to Digital Assets",
+        "description": "Lay the groundwork with lessons like 'Understanding Digital Elements' and 'Navigating Design Software Tools'. Dive into the essentials of digital asset creation.",
+        "duration": "12 mins"
+      },
+      {
+        "id": "mod-2",
+        "title": "Module 2: Design Principles for Impact",
+        "description": "Master the principles that drive impactful designs with lessons such as 'Color Theory in Digital Design' and 'Typography Essentials'. Elevate your visual communication skills.",
+        "duration": "21 mins"
+      },
+      {
+        "id": "mod-3",
+        "title": "Module 3: Advanced Techniques in Digital Creation",
+        "description": "Explore advanced methods for scalable graphics, dynamic asset generation, and optimizing workflows.",
+        "duration": "16 mins"
+      },
+      {
+        "id": "mod-4",
+        "title": "Module 4: User-Centric Design Strategies",
+        "description": "Understand Design Thinking in Digital Creation and delve into User Experience (UX) Essentials. Craft digital assets with a focus on user-centric design.",
+        "duration": "45 mins"
+      },
+      {
+        "id": "mod-5",
+        "title": "Module 5: Interactive Media and Engagement",
+        "description": "Engage your audience with lessons like 'Creating Interactive Presentations' and 'Integrating Multimedia Elements'. Master the art of creating immersive digital experiences.",
+        "duration": "30 mins"
+      },
+      {
+        "id": "mod-6",
+        "title": "Module 6: Project Showcase and Critique",
+        "description": "Perfect your presentation skills with 'Effective Presentation Techniques' and embrace collaboration with 'Peer Critique and Collaboration'. Showcase your work with confidence.",
+        "duration": "50 mins"
+      },
+      {
+        "id": "mod-7",
+        "title": "Module 7: Optimizing Digital Assets for Various Platforms",
+        "description": "Adapt your digital creations for Mobile Platforms and optimize for Social Media. Ensure widespread accessibility and engagement across diverse digital landscapes.",
+        "duration": "40 mins"
+      }
+    ],
+    "reviews": {
+      "averageRating": 4.7,
+      "ratingDistribution": {
+        "5": 720,
+        "4": 120,
+        "3": 21,
+        "2": 10,
+        "1": 15
+      },
+      "list": [
+        {
+          "id": "rev-1",
+          "userName": "PurePearl Studio",
+          "userRole": "UI/UX Designer",
+          "userAvatar": "/images/avatars/user-1.jpg",
+          "rating": 5,
+          "date": "a year ago",
+          "comment": "The course provided me with a comprehensive understanding of digital asset creation. The lessons were in-depth, practical, and immediately applicable to my work. Highly recommended!"
+        },
+        {
+          "id": "rev-2",
+          "userName": "Albert Flores",
+          "userRole": "UI/UX Designer",
+          "userAvatar": "/images/avatars/user-2.jpg",
+          "rating": 5,
+          "date": "a year ago",
+          "comment": "This course transformed my approach to digital design. The combination of theory, hands-on exercises, and real-world applications made it a truly enriching experience. Excited to implement what I've learned!"
+        },
+        {
+          "id": "rev-3",
+          "userName": "Cody Fisher",
+          "userRole": "UI/UX Designer",
+          "userAvatar": "/images/avatars/user-3.jpg",
+          "rating": 5,
+          "date": "a year ago",
+          "comment": "The project showcase and critique module created a collaborative environment where I could showcase my work, receive valuable feedback, and refine my skills. It added a unique dimension to the learning process."
+        },
+        {
+          "id": "rev-4",
+          "userName": "Brooklyn Simmons",
+          "userRole": "UI/UX Designer",
+          "userAvatar": "/images/avatars/user-4.jpg",
+          "rating": 5,
+          "date": "a year ago",
+          "comment": "The lessons on optimizing digital assets for various platforms were particularly insightful. The course adapts to the evolving digital landscape, and the engaging content kept me motivated throughout."
+        }
+      ]
+    }
+  },
+  {
+    "id": "learn-figma-from-basic",
+    "title": "Learn Figma from Basic",
+    "subtitle": "Master Collaborative UI/UX Design from Scratch",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "UI/UX Designer",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.5,
+    "reviewCount": 89,
+    "studentsEnrolled": 210,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature2.jpg",
+    "previewVideoUrl": "https://example.com/videos/figma-basic.mp4",
+    "totalLessons": 11,
+    "totalDuration": "2 hours 15 mins",
+    "features": [
+      "Learning Resources",
+      "Quality Lesson Videos",
+      "Certificate of Completion"
+    ],
+    "about": {
+      "description": "Step into the world of interface design with Figma. Learn vectors, auto-layout, components, and design systems from scratch.",
+      "sneakPeekImages": ["/feature2.jpg"],
+      "keyPoints": [
+        "Figma Interface Essentials",
+        "Auto-Layout 5.0",
+        "Design Systems & Tokens"
+      ]
+    },
+    "modules": [
+      {
+        "id": "mod-1",
+        "title": "Module 1: Figma Basics",
+        "description": "Getting started with frames, shapes, and vector networks.",
+        "duration": "15 mins"
+      }
+    ],
+    "reviews": {
+      "averageRating": 4.5,
+      "ratingDistribution": { "5": 50, "4": 30, "3": 5, "2": 2, "1": 2 },
+      "list": []
+    }
+  },
+  {
+    "id": "the-power-of-big-data",
+    "title": "The Power of Big Data",
+    "subtitle": "Harness Analytics and Data Pipelines for High-Growth Apps",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Data Engineer",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.5,
+    "reviewCount": 59,
+    "studentsEnrolled": 140,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature3.jpg",
+    "previewVideoUrl": "https://example.com/videos/big-data.mp4",
+    "totalLessons": 11,
+    "totalDuration": "2 hours 15 mins",
+    "features": ["Learning Resources", "Quality Lesson Videos"],
+    "about": {
+      "description": "Learn how modern architectures handle terabytes of streaming data efficiently.",
+      "sneakPeekImages": ["/feature3.jpg"],
+      "keyPoints": ["Data Pipelines", "Apache Spark", "Cloud Warehousing"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.5,
+      "ratingDistribution": { "5": 40, "4": 15, "3": 2, "2": 1, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "balancing-productivity-and-wellbeing",
+    "title": "Balancing Productivity and Well-Being",
+    "subtitle": "Optimize Workflows Without Experiencing Burnout",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Productivity Coach",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.5,
+    "reviewCount": 34,
+    "studentsEnrolled": 95,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature4.jpg",
+    "previewVideoUrl": "https://example.com/videos/productivity.mp4",
+    "totalLessons": 11,
+    "totalDuration": "2 hours 15 mins",
+    "features": ["Learning Resources", "Certificate of Completion"],
+    "about": {
+      "description": "Discover time management and mental clarity habits tailored for creators and software developers.",
+      "sneakPeekImages": ["/feature4.jpg"],
+      "keyPoints": ["Time Blocking", "Deep Work Setup", "Stress Reduction"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.5,
+      "ratingDistribution": { "5": 20, "4": 10, "3": 2, "2": 1, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "mastering-money-management",
+    "title": "Mastering Money Management",
+    "subtitle": "Personal Finance & Investment Strategies for Professionals",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Financial Advisor",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.5,
+    "reviewCount": 42,
+    "studentsEnrolled": 180,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature5.jpg",
+    "previewVideoUrl": "https://example.com/videos/money.mp4",
+    "totalLessons": 11,
+    "totalDuration": "2 hours 15 mins",
+    "features": ["Learning Resources", "Private Consultation"],
+    "about": {
+      "description": "Build sustainable wealth through smart budgeting, stock market basics, and tax efficiency.",
+      "sneakPeekImages": ["/feature5.jpg"],
+      "keyPoints": ["Budgeting Systems", "Portfolio Diversification", "Tax Optimization"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.5,
+      "ratingDistribution": { "5": 30, "4": 10, "3": 1, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "from-idea-to-startup-success",
+    "title": "From Idea to Startup Success",
+    "subtitle": "Validate, Build, and Launch Your Next Product",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Startup Founder",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.5,
+    "reviewCount": 78,
+    "studentsEnrolled": 310,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature6.jpg",
+    "previewVideoUrl": "https://example.com/videos/startup.mp4",
+    "totalLessons": 11,
+    "totalDuration": "2 hours 15 mins",
+    "features": ["Learning Resources", "Quality Lesson Videos", "Private Consultation"],
+    "about": {
+      "description": "Turn your napkin sketch into a scalable MVP with agile development and growth marketing tactics.",
+      "sneakPeekImages": ["/feature6.jpg"],
+      "keyPoints": ["Idea Validation", "Building MVPs", "Go-To-Market Strategy"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.5,
+      "ratingDistribution": { "5": 50, "4": 20, "3": 5, "2": 2, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "nextjs-app-router-deep-dive",
+    "title": "Next.js App Router Deep Dive",
+    "subtitle": "Build Enterprise React Applications with Next.js 15",
+    "creator": {
+      "name": "ByteSpace Team",
+      "role": "Lead Frontend Engineer",
+      "avatar": "/images/avatars/bytespace.jpg"
+    },
+    "level": "Advanced",
+    "rating": 4.9,
+    "reviewCount": 210,
+    "studentsEnrolled": 520,
+    "price": 35,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature1.jpg",
+    "previewVideoUrl": "https://example.com/videos/nextjs.mp4",
+    "totalLessons": 45,
+    "totalDuration": "14 hours",
+    "features": ["Learning Resources", "Quality Lesson Videos", "Certificate of Completion"],
+    "about": {
+      "description": "Master Server Components, Server Actions, Dynamic Routing, and Parallel Routes in Next.js.",
+      "sneakPeekImages": ["/feature1.jpg"],
+      "keyPoints": ["React Server Components", "Server Actions", "Caching Strategy"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.9,
+      "ratingDistribution": { "5": 190, "4": 15, "3": 3, "2": 1, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "tailwind-css-mastery",
+    "title": "Tailwind CSS Architecture & Design Systems",
+    "subtitle": "Craft Scalable and Responsive UI Components Faster",
+    "creator": {
+      "name": "ByteSpace Team",
+      "role": "UI Engineer",
+      "avatar": "/images/avatars/bytespace.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.7,
+    "reviewCount": 115,
+    "studentsEnrolled": 430,
+    "price": 20,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature2.jpg",
+    "previewVideoUrl": "https://example.com/videos/tailwind.mp4",
+    "totalLessons": 28,
+    "totalDuration": "8 hours",
+    "features": ["Learning Resources", "Quality Lesson Videos"],
+    "about": {
+      "description": "Learn utility-first styling patterns, custom plugin creation, and dark mode configuration.",
+      "sneakPeekImages": ["/feature2.jpg"],
+      "keyPoints": ["Utility Patterns", "Custom Plugins", "Responsive Strategies"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.7,
+      "ratingDistribution": { "5": 90, "4": 20, "3": 3, "2": 1, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "fullstack-node-express-mongodb",
+    "title": "Fullstack Backend Development with Node.js & MongoDB",
+    "subtitle": "Construct Secure REST APIs & GraphQL Endpoints",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Backend Architect",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.6,
+    "reviewCount": 94,
+    "studentsEnrolled": 280,
+    "price": 30,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature3.jpg",
+    "previewVideoUrl": "https://example.com/videos/backend.mp4",
+    "totalLessons": 36,
+    "totalDuration": "11 hours",
+    "features": ["Learning Resources", "Certificate of Completion"],
+    "about": {
+      "description": "Build robust authentication, database schemas, and microservice infrastructure.",
+      "sneakPeekImages": ["/feature3.jpg"],
+      "keyPoints": ["JWT Auth", "MongoDB Schema Design", "Express Middleware"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.6,
+      "ratingDistribution": { "5": 70, "4": 20, "3": 3, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "ui-ux-design-principles",
+    "title": "UI/UX Design Systems & Micro-Interactions",
+    "subtitle": "Create User Experiences That Convert and Delight",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Lead Product Designer",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.8,
+    "reviewCount": 160,
+    "studentsEnrolled": 390,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature4.jpg",
+    "previewVideoUrl": "https://example.com/videos/uiux.mp4",
+    "totalLessons": 22,
+    "totalDuration": "6 hours",
+    "features": ["Learning Resources", "Private Consultation"],
+    "about": {
+      "description": "Learn user psychology, wireframing, interactive prototyping, and usability testing.",
+      "sneakPeekImages": ["/feature4.jpg"],
+      "keyPoints": ["User Psychology", "Wireframing", "Prototyping"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.8,
+      "ratingDistribution": { "5": 130, "4": 25, "3": 3, "2": 1, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "python-for-data-science",
+    "title": "Python for Data Science and Analytics",
+    "subtitle": "Pandas, NumPy, and Visualization Fundamentals",
+    "creator": {
+      "name": "DataCraft Studio",
+      "role": "Data Scientist",
+      "avatar": "/images/avatars/datacraft.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.7,
+    "reviewCount": 140,
+    "studentsEnrolled": 460,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature5.jpg",
+    "previewVideoUrl": "https://example.com/videos/python.mp4",
+    "totalLessons": 30,
+    "totalDuration": "9 hours",
+    "features": ["Learning Resources", "Certificate of Completion"],
+    "about": {
+      "description": "Clean, manipulate, and visualize complex datasets using Python's core analytics libraries.",
+      "sneakPeekImages": ["/feature5.jpg"],
+      "keyPoints": ["Pandas & NumPy", "Matplotlib & Seaborn", "Exploratory Data Analysis"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.7,
+      "ratingDistribution": { "5": 110, "4": 25, "3": 3, "2": 1, "1": 1 },
+      "list": []
+    }
+  },
+  {
+    "id": "docker-and-kubernetes-guide",
+    "title": "Docker & Kubernetes: Cloud DevOps Guide",
+    "subtitle": "Containerize, Deploy, and Scale Applications with Ease",
+    "creator": {
+      "name": "CloudOps Academy",
+      "role": "DevOps Architect",
+      "avatar": "/images/avatars/cloudops.jpg"
+    },
+    "level": "Advanced",
+    "rating": 4.9,
+    "reviewCount": 88,
+    "studentsEnrolled": 230,
+    "price": 40,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature6.jpg",
+    "previewVideoUrl": "https://example.com/videos/devops.mp4",
+    "totalLessons": 40,
+    "totalDuration": "13 hours",
+    "features": ["Learning Resources", "Quality Lesson Videos", "Private Consultation"],
+    "about": {
+      "description": "Master containerization, helm charts, cluster management, and automated CI/CD pipelines.",
+      "sneakPeekImages": ["/feature6.jpg"],
+      "keyPoints": ["Docker Orchestration", "Kubernetes Clusters", "CI/CD Deployment"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.9,
+      "ratingDistribution": { "5": 80, "4": 6, "3": 1, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "ai-prompt-engineering",
+    "title": "AI Prompt Engineering & LLM Integration",
+    "subtitle": "Build Intelligent Apps Using OpenAI and LangChain",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "AI Engineer",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.8,
+    "reviewCount": 105,
+    "studentsEnrolled": 380,
+    "price": 30,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature1.jpg",
+    "previewVideoUrl": "https://example.com/videos/ai-prompt.mp4",
+    "totalLessons": 18,
+    "totalDuration": "5 hours 30 mins",
+    "features": ["Learning Resources", "Quality Lesson Videos"],
+    "about": {
+      "description": "Harness Large Language Models to build dynamic AI assistants and generative workflows.",
+      "sneakPeekImages": ["/feature1.jpg"],
+      "keyPoints": ["Prompt Optimization", "LangChain Framework", "Vector Databases"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.8,
+      "ratingDistribution": { "5": 90, "4": 12, "3": 2, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "mobile-app-react-native",
+    "title": "React Native & Expo: Cross-Platform Apps",
+    "subtitle": "Develop iOS and Android Applications with JavaScript",
+    "creator": {
+      "name": "ByteSpace Team",
+      "role": "Mobile Developer",
+      "avatar": "/images/avatars/bytespace.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.6,
+    "reviewCount": 73,
+    "studentsEnrolled": 210,
+    "price": 28,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature2.jpg",
+    "previewVideoUrl": "https://example.com/videos/react-native.mp4",
+    "totalLessons": 32,
+    "totalDuration": "10 hours",
+    "features": ["Learning Resources", "Certificate of Completion"],
+    "about": {
+      "description": "Build high-performance native apps with a single codebase using Expo and React Native.",
+      "sneakPeekImages": ["/feature2.jpg"],
+      "keyPoints": ["Native Components", "Navigation", "App Store Publishing"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.6,
+      "ratingDistribution": { "5": 55, "4": 15, "3": 2, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "cybersecurity-fundamentals",
+    "title": "Cybersecurity & Ethical Hacking Basics",
+    "subtitle": "Protect Web Applications from Modern Vulnerabilities",
+    "creator": {
+      "name": "SecOps Lab",
+      "role": "Security Researcher",
+      "avatar": "/images/avatars/secops.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.7,
+    "reviewCount": 92,
+    "studentsEnrolled": 260,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature3.jpg",
+    "previewVideoUrl": "https://example.com/videos/security.mp4",
+    "totalLessons": 25,
+    "totalDuration": "7 hours 45 mins",
+    "features": ["Learning Resources", "Quality Lesson Videos"],
+    "about": {
+      "description": "Understand OWASP Top 10 risks, penetration testing methodologies, and secure coding patterns.",
+      "sneakPeekImages": ["/feature3.jpg"],
+      "keyPoints": ["OWASP Security", "Penetration Testing", "Encryption & Auth"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.7,
+      "ratingDistribution": { "5": 70, "4": 18, "3": 3, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "brand-identity-design",
+    "title": "Brand Identity & Logo Design Studio",
+    "subtitle": "Craft Memorable Visual Identities for Tech Brands",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Brand Strategist",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.8,
+    "reviewCount": 64,
+    "studentsEnrolled": 175,
+    "price": 22,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature4.jpg",
+    "previewVideoUrl": "https://example.com/videos/branding.mp4",
+    "totalLessons": 16,
+    "totalDuration": "4 hours 30 mins",
+    "features": ["Learning Resources", "Private Consultation"],
+    "about": {
+      "description": "Develop full brand guidelines, typography systems, and vector logo assets for startups.",
+      "sneakPeekImages": ["/feature4.jpg"],
+      "keyPoints": ["Brand Strategy", "Vector Mark Design", "Brand Guidelines"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.8,
+      "ratingDistribution": { "5": 50, "4": 12, "3": 1, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "graphql-api-mastery",
+    "title": "GraphQL API Architecture with Apollo",
+    "subtitle": "Query Efficiently Without Over-Fetching Data",
+    "creator": {
+      "name": "ByteSpace Team",
+      "role": "API Architect",
+      "avatar": "/images/avatars/bytespace.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.5,
+    "reviewCount": 51,
+    "studentsEnrolled": 145,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature5.jpg",
+    "previewVideoUrl": "https://example.com/videos/graphql.mp4",
+    "totalLessons": 20,
+    "totalDuration": "6 hours",
+    "features": ["Learning Resources", "Certificate of Completion"],
+    "about": {
+      "description": "Design GraphQL schemas, implement resolvers, and connect Apollo Server with frontend clients.",
+      "sneakPeekImages": ["/feature5.jpg"],
+      "keyPoints": ["Schema Design", "Resolvers & Mutations", "Performance Caching"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.5,
+      "ratingDistribution": { "5": 38, "4": 10, "3": 2, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "seo-and-content-strategy",
+    "title": "Modern SEO & Content Strategy for Creators",
+    "subtitle": "Drive Organic Traffic and Build Brand Authority",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Growth Marketer",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Beginner",
+    "rating": 4.4,
+    "reviewCount": 48,
+    "studentsEnrolled": 160,
+    "price": 18,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature6.jpg",
+    "previewVideoUrl": "https://example.com/videos/seo.mp4",
+    "totalLessons": 14,
+    "totalDuration": "3 hours 45 mins",
+    "features": ["Learning Resources", "Quality Lesson Videos"],
+    "about": {
+      "description": "Learn keyword research, technical SEO audits, and content distribution strategies.",
+      "sneakPeekImages": ["/feature6.jpg"],
+      "keyPoints": ["Keyword Research", "Technical Audits", "Content Distribution"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.4,
+      "ratingDistribution": { "5": 30, "4": 14, "3": 3, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "threejs-and-webgl-3d-web",
+    "title": "Interactive 3D Websites with Three.js & WebGL",
+    "subtitle": "Bring Immersive 3D Experiences to the Web Browser",
+    "creator": {
+      "name": "CreativeDev Studio",
+      "role": "Creative Developer",
+      "avatar": "/images/avatars/creativedev.jpg"
+    },
+    "level": "Advanced",
+    "rating": 4.9,
+    "reviewCount": 130,
+    "studentsEnrolled": 290,
+    "price": 38,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature1.jpg",
+    "previewVideoUrl": "https://example.com/videos/threejs.mp4",
+    "totalLessons": 35,
+    "totalDuration": "12 hours",
+    "features": ["Learning Resources", "Quality Lesson Videos", "Private Consultation"],
+    "about": {
+      "description": "Build interactive 3D scenes, custom shaders, and lighting setups inside modern web browsers.",
+      "sneakPeekImages": ["/feature1.jpg"],
+      "keyPoints": ["3D Scenes & Cameras", "Custom Shaders", "Scroll Animations"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.9,
+      "ratingDistribution": { "5": 120, "4": 8, "3": 1, "2": 1, "1": 0 },
+      "list": []
+    }
+  },
+  {
+    "id": "agile-product-management",
+    "title": "Agile Product Management & Roadmap Strategy",
+    "subtitle": "Lead Cross-Functional Teams and Deliver Winning Products",
+    "creator": {
+      "name": "PurePearl Studio",
+      "role": "Product Lead",
+      "avatar": "/images/avatars/purepearl.jpg"
+    },
+    "level": "Intermediate",
+    "rating": 4.6,
+    "reviewCount": 67,
+    "studentsEnrolled": 195,
+    "price": 25,
+    "pricingModel": "lifetime",
+    "thumbnail": "/feature2.jpg",
+    "previewVideoUrl": "https://example.com/videos/product-management.mp4",
+    "totalLessons": 21,
+    "totalDuration": "5 hours 15 mins",
+    "features": ["Learning Resources", "Certificate of Completion"],
+    "about": {
+      "description": "Master sprint planning, user story mapping, backlog prioritization, and feature roadmapping.",
+      "sneakPeekImages": ["/feature2.jpg"],
+      "keyPoints": ["Sprint Planning", "Story Mapping", "Roadmap Execution"]
+    },
+    "modules": [],
+    "reviews": {
+      "averageRating": 4.6,
+      "ratingDistribution": { "5": 50, "4": 14, "3": 2, "2": 1, "1": 0 },
+      "list": []
+    }
+  }
+]
