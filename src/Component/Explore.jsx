@@ -1,5 +1,3 @@
-/* ---------- icons (16 x 16, dark shapes with lime details) ---------- */
-
 function DesignIcon() {
   return (
     <svg className="bs-e-icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">

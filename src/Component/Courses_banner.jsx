@@ -2,6 +2,7 @@
 
 import { Plus_Jakarta_Sans, Urbanist } from "next/font/google";
 
+
 const headingFont = Plus_Jakarta_Sans({ subsets: ["latin"], weight: ["700", "800"] });
 const bodyFont = Urbanist({ subsets: ["latin"], weight: ["400", "500", "600"] });
 

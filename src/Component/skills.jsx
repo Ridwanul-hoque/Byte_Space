@@ -3,7 +3,6 @@
 import { useState } from "react";
 import Image from "next/image";
 
-// Course data lives right here in the component
 const data = {
   "header": {
     "title": "Discover Your Passion, Build Your Skills",
